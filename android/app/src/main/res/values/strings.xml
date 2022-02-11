@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Ahen Store</string>
+    <string name="facebook_app_id">674871743549369</string>
+    <string name="facebook_client_token">75c2e1218c28ddac1bbac318daa44cc9</string>
+
+    <string name="fb_login_protocol_scheme">fb674871743549369</string>
+
+</resources>
+

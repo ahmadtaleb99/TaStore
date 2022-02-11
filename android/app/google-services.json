@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700972231016",
+    "project_id": "ahenstore-f5c27",
+    "storage_bucket": "ahenstore-f5c27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700972231016:android:d1582b11167fe357324edd",
+        "android_client_info": {
+          "package_name": "com.example.taa_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700972231016-24ei7u0g38envrqg397c0egckdp5600h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT7XnRh98V5m5tVfP2wHB5KAKrJr3epCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700972231016-24ei7u0g38envrqg397c0egckdp5600h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
